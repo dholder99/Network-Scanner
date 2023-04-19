@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This is a simple network scanner built in Python 3 that allows you to discover live hosts on a network by sending ARP requests and analyzing the responses.Scapy library for packet manipulation. Netifaces library for network interface information
-<br />
+<br/>
 
 <h2>Project Features:</h2>
 - <b>Scans a specified IP range for live hosts using ARP requests</b>
